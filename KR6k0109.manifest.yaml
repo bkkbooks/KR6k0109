@@ -34,9 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6k0109_000.yaml, hash: 'sha256:14b7b52e6417b6997a752f791203c9e57b6bbb6c3f3e2b6b78c9320c83c83950'}
-  - {seq: 1, filename: KR6k0109_001.yaml, hash: 'sha256:cb509e63505570725c39ba407431bec28bd60f5774941a2839810263cb6a2e6c'}
+  - {seq: 1, filename: KR6k0109_001.yaml, hash: 'sha256:f5870af63c1b00b496eb6c3d122d0a44889e05e46bf829f274ad205033239936'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6k0109_001.markers.yaml, hash: 'sha256:25736e9d9679c17ce203b4894d72c677ada9f663446f7c3e8f27c0b5d595b6b7'}
+  - {seq: 0, role: markers, filename: assets/KR6k0109_000.markers.yaml, hash: 'sha256:5053cc96078776862ea1876d2c375025bc1d09649da81d82e2af299f559dc0da'}
+  - {seq: 1, role: markers, filename: assets/KR6k0109_001.markers.yaml, hash: 'sha256:50e19122a3006a86b82ddebf7f4bf8d3d30d1e0c6cc1d850f97d5c078b24f4cf'}
 table_of_contents:
 - ref:
     seq: 1
@@ -48,7 +49,4 @@ table_of_contents:
   label: 佛說菩薩內戒經
   type: juan
   level: 1
-hash: sha256:d3d56b2d19a8b3e48d96b531dd392e4157addf785d93cdd7296e379dbd3fe041
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:67a395124effa48924bec49f399e3789b41fa87a9660eae59de79dbe72bb13f7
